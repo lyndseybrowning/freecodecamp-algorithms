@@ -1,0 +1,28 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndseybrowning/freecodecamp.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "algorithms",
+    "javascript",
+    "jest"
+  ],
+  "author": "Lyndsey Browning <lbrowning86@gmail.com> (http://lyndseyb.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyndseybrowning/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/lyndseybrowning/freecodecamp#readme",
+  "devDependencies": {
+    "jest": "19.0.2"
+  }
+}
