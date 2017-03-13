@@ -6,5 +6,6 @@ Example:
 
 ```javascript
 reverseString('hello'); // => olleh
+```
 
 [Open challenge URL](https://www.freecodecamp.com/challenges/reverse-a-string)
