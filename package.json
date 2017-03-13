@@ -4,7 +4,10 @@
   "description": "FreeCodeCamp Algorithms",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest",
+    "test-cover": "jest --coverage",
+    "test-watch": "jest --watch",
+    "lint": "eslint src"
   },
   "repository": {
     "type": "git",
