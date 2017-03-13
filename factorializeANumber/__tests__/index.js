@@ -7,4 +7,5 @@ test('Factorialise a number', () => {
   expect(actual).toEqual(expected);
   expect(factorialize(10)).toEqual(3628800);
   expect(factorialize(20)).toEqual(2432902008176640000);
+  expect(factorialize(0)).toEqual(1);
 });
