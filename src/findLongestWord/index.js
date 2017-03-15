@@ -5,4 +5,4 @@ export default function findLongestWord(sentence) {
   }, 0);
 
   return longestWord;
-};
+}

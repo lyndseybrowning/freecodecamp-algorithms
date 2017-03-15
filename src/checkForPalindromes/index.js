@@ -5,4 +5,4 @@ export default function palindrome(str) {
   const reversed = reverseString(input);
 
   return reversed === input;
-};
+}
