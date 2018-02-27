@@ -1,10 +1,5 @@
-const getCharCode = (char) => {
-  return char.charCodeAt(0);
-};
-
-const convertCharCode = (code) => {
-  return String.fromCharCode(code);
-};
+const getCharCode = (char) => char.charCodeAt(0);
+const convertCharCode = (code) => String.fromCharCode(code);
 
 export default function cipher(str) {
   const shift = 13;
